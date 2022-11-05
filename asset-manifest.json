@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.4db910e5.css",
-    "main.js": "/static/js/main.6abfa68d.js",
-    "index.html": "/index.html",
-    "main.4db910e5.css.map": "/static/css/main.4db910e5.css.map",
-    "main.6abfa68d.js.map": "/static/js/main.6abfa68d.js.map"
+    "main.css": "/React-Pemula/static/css/main.4db910e5.css",
+    "main.js": "/React-Pemula/static/js/main.6abfa68d.js",
+    "index.html": "/React-Pemula/index.html",
+    "main.4db910e5.css.map": "/React-Pemula/static/css/main.4db910e5.css.map",
+    "main.6abfa68d.js.map": "/React-Pemula/static/js/main.6abfa68d.js.map"
   },
   "entrypoints": [
     "static/css/main.4db910e5.css",
