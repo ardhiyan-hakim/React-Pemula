@@ -263,6 +263,9 @@ main .note-container {
 }
 
 .note-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   height: 100%;
   border-radius: 16px;
   padding: 15px 30px;
